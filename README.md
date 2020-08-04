@@ -4,12 +4,11 @@ Olá, meu nome é Wictor de Oliveira Dias Chaves, comecei a minha carreira traba
 
 Hoje pós-graduado em  Desenvolvimento de Aplicações Web trabalho em uma empresa que me desafia todos os dias, sempre com projetos novos. Continuo com o meu foco em aprender novas tecnologias e assim cresço na minha carreira como desenvolvedor.
 
-
-[![Github.io](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=http://wictorchaves.github.io/)](http://wictorchaves.github.io/)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wictorChaves)](https://github.com/wictorChaves)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wictor-oliveira-199b7228/)](https://www.linkedin.com/in/wictor-oliveira-199b7228/)
-[![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=http://instagram.com/wictor.chaves)](http://instagram.com/wictor.chaves)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/wictor.chaves/)](https://www.facebook.com/wictor.chaves/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/wictorchaves)](https://twitter.com/wictorchaves)
+[![Github.io](https://img.shields.io/badge/-Github.io-000?logo=Github&logoColor=white&link=http://wictorchaves.github.io/)](http://wictorchaves.github.io/)
+[![Github](https://img.shields.io/badge/-Github-000?style=logo=Github&logoColor=white&link=https://github.com/wictorChaves)](https://github.com/wictorChaves)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wictor-oliveira-199b7228/)](https://www.linkedin.com/in/wictor-oliveira-199b7228/)
+[![Instagram](https://img.shields.io/badge/-Instagram-C13584?labelColor=C13584&logo=instagram&logoColor=white&link=http://instagram.com/wictor.chaves)](http://instagram.com/wictor.chaves)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/wictor.chaves/)](https://www.facebook.com/wictor.chaves/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/wictorchaves)](https://twitter.com/wictorchaves)
 
 <img src="images/bg.png" alt="background">
