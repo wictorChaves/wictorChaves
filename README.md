@@ -11,4 +11,4 @@ Hoje pós-graduado em  Desenvolvimento de Aplicações Web trabalho em uma empre
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?labelColor=blue&logo=facebook&logoColor=white&color=1877f2&link=https://www.facebook.com/wictor.chaves/)](https://www.facebook.com/wictor.chaves/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/wictorchaves)](https://twitter.com/wictorchaves)
 
-<img src="images/bg.png" alt="background">
+<img src="https://github.com/wictorChaves/wictorChaves/blob/master/images/bg.png" alt="background">
