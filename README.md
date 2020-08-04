@@ -6,9 +6,9 @@ Hoje pós-graduado em  Desenvolvimento de Aplicações Web trabalho em uma empre
 
 [![Github.io](https://img.shields.io/badge/-Github.io-000?logo=Github&logoColor=white&link=http://wictorchaves.github.io/)](http://wictorchaves.github.io/)
 [![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&link=https://github.com/wictorChaves)](https://github.com/wictorChaves)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wictor-oliveira-199b7228/)](https://www.linkedin.com/in/wictor-oliveira-199b7228/)
-[![Instagram](https://img.shields.io/badge/-Instagram-C13584?labelColor=C13584&logo=instagram&logoColor=white&link=http://instagram.com/wictor.chaves)](http://instagram.com/wictor.chaves)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/wictor.chaves/)](https://www.facebook.com/wictor.chaves/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/wictorchaves)](https://twitter.com/wictorchaves)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b0?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wictor-oliveira-199b7228/)](https://www.linkedin.com/in/wictor-oliveira-199b7228/)
+[![Instagram](https://img.shields.io/badge/-Instagram-ed4956?labelColor=ed4956&logo=instagram&logoColor=white&link=http://instagram.com/wictor.chaves)](http://instagram.com/wictor.chaves)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?labelColor=blue&logo=facebook&logoColor=white&color=1877f2&link=https://www.facebook.com/wictor.chaves/)](https://www.facebook.com/wictor.chaves/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/wictorchaves)](https://twitter.com/wictorchaves)
 
 <img src="images/bg.png" alt="background">
