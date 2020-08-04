@@ -1,4 +1,4 @@
-# [Hello there](https://www.youtube.com/watch?v=rEq1Z0bjdwc) 👋
+# [Hello there](https://www.youtube.com/watch?v=eaEMSKzqGAg) 👋
 
 Olá, meu nome é Wictor de Oliveira Dias Chaves, comecei a minha carreira trabalhando com infraestrutura em minha cidade natal, Itabira (MG). Em busca de algo melhor, juntei algum dinheiro e fui para Ipatinga (MG), visando meu bacharelado em Ciência da Computação, onde trabalhei mais uma vez com infra para custear meus estudos. Em paralelo, desenvolvi diversos projetos onde adquiri experiência como desenvolvedor. No último ano de graduação, um professor me convidou para trabalhar com ele, novamente a temática era desenvolvimento, o que me fez criar afinidade com o assunto e decidir trabalhar nesse campo.
 
