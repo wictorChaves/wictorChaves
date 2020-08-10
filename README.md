@@ -10,5 +10,7 @@ Hoje pós-graduado em  Desenvolvimento de Aplicações Web trabalho em uma empre
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?labelColor=blue&logo=facebook&logoColor=white&color=1877f2&link=https://www.facebook.com/wictor.chaves/)](https://www.facebook.com/wictor.chaves/)
 [![Github](https://img.shields.io/badge/-Github-24292e?logo=Github&logoColor=white&link=https://github.com/wictorChaves)](https://github.com/wictorChaves)
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/wictorchaves)](https://twitter.com/wictorchaves)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-4ca143?labelColor=4ca143&logo=stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/74441/wictor-chaves)](https://pt.stackoverflow.com/users/74441/wictor-chaves)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-f48024?labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/7986223/wictor-chaves)](https://stackoverflow.com/users/7986223/wictor-chaves)
 
 <img src="https://github.com/wictorChaves/wictorChaves/blob/master/images/bg.png" alt="background">
