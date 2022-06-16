@@ -4,13 +4,15 @@ Olá, meu nome é Wictor de Oliveira Dias Chaves, comecei a minha carreira traba
 
 Hoje pós-graduado em  Desenvolvimento de Aplicações Web trabalho em uma empresa que me desafia todos os dias, sempre com projetos novos. Continuo com o meu foco em aprender novas tecnologias e assim cresço na minha carreira como desenvolvedor.
 
-[![Github.io](https://img.shields.io/badge/-Github.io-24292e?logo=Github&logoColor=white&link=http://wictorchaves.github.io/)](http://wictorchaves.github.io/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b0?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wictor-oliveira-199b7228/)](https://www.linkedin.com/in/wictor-oliveira-199b7228/)
-[![Instagram](https://img.shields.io/badge/-Instagram-ed4956?labelColor=ed4956&logo=instagram&logoColor=white&link=http://instagram.com/wictor.chaves)](http://instagram.com/wictor.chaves)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?labelColor=blue&logo=facebook&logoColor=white&color=1877f2&link=https://www.facebook.com/wictor.chaves/)](https://www.facebook.com/wictor.chaves/)
-[![Github](https://img.shields.io/badge/-Github-24292e?logo=Github&logoColor=white&link=https://github.com/wictorChaves)](https://github.com/wictorChaves)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/wictorchaves)](https://twitter.com/wictorchaves)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-4ca143?labelColor=4ca143&logo=stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/74441/wictor-chaves)](https://pt.stackoverflow.com/users/74441/wictor-chaves)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-f48024?labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/7986223/wictor-chaves)](https://stackoverflow.com/users/7986223/wictor-chaves)
+<p align="center">
+  <a href="http://wictorchaves.github.io/"><img src="https://img.shields.io/badge/-Github.io-24292e?logo=Github&logoColor=white&link=http://wictorchaves.github.io/"></a>
+  <a href="https://www.linkedin.com/in/wictor-oliveira-199b7228/"><img src="https://img.shields.io/badge/-LinkedIn-0073b0?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wictor-oliveira-199b7228/"></a>
+  <a href="http://instagram.com/wictor.chaves"><img src="https://img.shields.io/badge/-Instagram-ed4956?labelColor=ed4956&logo=instagram&logoColor=white&link=http://instagram.com/wictor.chaves"></a>
+  <a href="https://www.facebook.com/wictor.chaves/"><img src="https://img.shields.io/badge/-Facebook-1877f2?labelColor=blue&logo=facebook&logoColor=white&color=1877f2&link=https://www.facebook.com/wictor.chaves/"></a>
+  <a href="https://github.com/wictorChaves"><img src="https://img.shields.io/badge/-Github-24292e?logo=Github&logoColor=white&link=https://github.com/wictorChaves"></a>
+  <a href="https://twitter.com/wictorchaves"><img src="https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/wictorchaves"></a>
+  <a href="https://pt.stackoverflow.com/users/74441/wictor-chaves"><img src="https://img.shields.io/badge/-Stack%20Overflow-4ca143?labelColor=4ca143&logo=stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/74441/wictor-chaves"></a>
+  <a href="https://stackoverflow.com/users/7986223/wictor-chaves"><img src="https://img.shields.io/badge/-Stack%20Overflow-f48024?labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/7986223/wictor-chaves"></a>
+<p>
 
 <img src="https://github.com/wictorChaves/wictorChaves/blob/master/images/bg.png" alt="background">
